@@ -6,6 +6,7 @@
 - 🤔 Aceito ajudas com lógica de programação e  inicilalização no mercado.
 - 📫 Para entrar em contato comigo: <a href="https://instagram.com/elvinribas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 - ⚡ Hobby:  Músico  e  artista.
+ <hr>
 
 ![ElvinRibas GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvinRibas&show_icons=true&theme=tokyonight)
 
